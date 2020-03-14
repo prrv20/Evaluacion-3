@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Test Diagrama Logico" id="EEB27F82-9F6D-ACF6-0DB2-7A0243861646" version="3.5">
+<createdBy>Alumno</createdBy>
+<createdTime>2020-03-12 22:45:07 UTC</createdTime>
+<ownerDesignName>Test Diagrama Logico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EEB27F82-9F6D-ACF6-0DB2-7A0243861646</designId>
+</OSDM_Design>
